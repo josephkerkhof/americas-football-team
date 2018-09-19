@@ -10,7 +10,7 @@ My first step was to determine how to capture tweets and to which keywords I wou
 
 ## Data Cleaning & Sentiment Analysis [Python]
 
-After collecting the tweets, I cleaned the text by stripping out special characters. Then I ran the tweets thru the sentiment analysis tool. Each team had a data frame stored in a separate object, which eased the exporting to a CSV file.
+After collecting the tweets, I cleaned the text by stripping out special characters. Then I ran the tweets thru the sentiment analysis tool called [TextBlob](https://github.com/sloria/TextBlob/). Each team had a data frame stored in a separate object, which eased the exporting to a CSV file.
 
 ## Results [R]
 
